@@ -8,8 +8,8 @@ com/appsecco/dvja/controllers/BaseController.class
 com/appsecco/dvja/controllers/ResetPassword.class
 com/appsecco/dvja/controllers/ProductAction.class
 com/appsecco/example/HelloWorld.class
-com/appsecco/dvja/controllers/ApiAction.class
 com/appsecco/dvja/controllers/UserAction.class
+com/appsecco/dvja/controllers/ApiAction.class
 com/appsecco/dvja/Constant.class
 com/appsecco/dvja/models/User.class
 com/appsecco/example/ExampleSupport.class
